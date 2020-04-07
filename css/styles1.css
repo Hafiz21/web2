@@ -1,0 +1,88 @@
+body{
+  margin: 0%;
+  text-align: center;
+  /*font-family: sans-serif;*/
+  font-family: 'Noto Serif SC', serif;
+  font-size: 20px;
+
+}
+
+h1{
+  /*font-size: 5.625em;*/
+  font-size: 90px;
+  margin-bottom: 0px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+h2{
+  /*font-family: 'Noto Serif SC', serif;*/
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  margin-top: : 0px;
+}
+#p1{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border: dotted #005082 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 5% auto;
+}
+
+.top-container{
+
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+
+
+}
+
+
+
+.middle-container{
+  background-color: #b2ebf2;
+  padding-bottom: 50px;
+
+
+
+}
+
+.bottom-container{
+
+
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 30%;
+  top: 8%;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 30%;
+  bottom: 60%;
+
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.code-img{
+  float: left;
+  margin-right: 5%;
+}
+.chillies-img{
+  float: right;
+margin-right: 12%;
+}
